@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Quake Report App
 ===================================
 
@@ -54,4 +54,4 @@ the License.
 =======
 # quake_App
 Get response from server and parse json display in the app
->>>>>>> 55904055a8bba043bf6645d4926a7524b76c1f06
+
